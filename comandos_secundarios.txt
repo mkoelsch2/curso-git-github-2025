@@ -5,3 +5,9 @@ Este arquivo contem informacoes adicionais para git
 
 #Comandos mais genericos
 - comandos estranhos
+
+# Mais comandos!!!
+
+a
+b
+c
